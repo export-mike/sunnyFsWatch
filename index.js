@@ -2,24 +2,32 @@ var watch = require('watch'),
 	sunnyConfig = require('./sunnyFileWatcher.json'),
 	fs = require('fs');
 
-watch.createMonitor(sunnyConfig.folderSource, function(monitor) {
+watch.createMonitor(sunnyConfig.folderSource, {filter:filter}, function(monitor) {
 
 	monitor.on("created", function(filePath, fileData) {
-		console.log('new File created ' + filePath);
+		if(filter(filePath)){
+			console.log('new File created ' + filePath);
 
-		copyFileToOutputFolder(filePath);
+			copyFileToOutputFolder(filePath);
+		}
 	});
 
 	monitor.on("changed", function(filePath, currentFileData, previousFileData) {
-		console.log('file changed ' + filePath);
-		
-		copyFileToOutputFolder(filePath);
+		if(filter(filePath))
+		{
+			console.log('file changed ' + filePath);
+			
+			copyFileToOutputFolder(filePath);
+		}
 	});
 
 	monitor.on("removed", function(filePath, fileData) {
-		console.log('file removed ' + filePath);
+		if(filter(filePath))
+		{
+			console.log('file removed ' + filePath);
 
-		removeFile(filePath);
+			removeFile(filePath);
+		}
 	});
 });
 
