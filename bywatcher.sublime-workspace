@@ -1,0 +1,1197 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"def",
+				"defaultValue"
+			],
+			[
+				"min",
+				"minMaxValue"
+			],
+			[
+				"tra",
+				"trackRequest"
+			],
+			[
+				"so",
+				"sourceMap"
+			],
+			[
+				"l",
+				"localhost"
+			],
+			[
+				"ar",
+				"arguments"
+			],
+			[
+				"re",
+				"resources"
+			],
+			[
+				"sock",
+				"socketIO"
+			],
+			[
+				"requ",
+				"require"
+			],
+			[
+				"n",
+				"numberOfPosts"
+			],
+			[
+				"it",
+				"items"
+			],
+			[
+				"cat",
+				"categoryID"
+			],
+			[
+				"categ",
+				"category"
+			],
+			[
+				"categor",
+				"category_name"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"att",
+				"attachments"
+			],
+			[
+				"at",
+				"attachment"
+			],
+			[
+				"attach",
+				"Attachments"
+			],
+			[
+				"is_nu",
+				"is_numeric"
+			],
+			[
+				"Post",
+				"PostID"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"cate",
+				"categoryName"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"ince",
+				"includes"
+			],
+			[
+				"catego",
+				"categoryID"
+			],
+			[
+				"strt",
+				"strtolower"
+			],
+			[
+				"incl",
+				"includes"
+			],
+			[
+				"get_the",
+				"get_the_title"
+			],
+			[
+				"strc",
+				"strcmp"
+			],
+			[
+				"fun",
+				"fun	function …"
+			],
+			[
+				"lo",
+				"lonely_house"
+			],
+			[
+				"the",
+				"the_president"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"st",
+				"stylesheets"
+			],
+			[
+				"projec",
+				"projectId"
+			],
+			[
+				"border",
+				"border-image"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"pr",
+				"projectI"
+			],
+			[
+				"pro",
+				"project"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"imag",
+				"images"
+			],
+			[
+				"image",
+				"imageurl"
+			],
+			[
+				"nav",
+				"navbar-inner"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"log",
+				"logo"
+			],
+			[
+				"out",
+				"output_style"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"tex",
+				"textStatus"
+			],
+			[
+				"d",
+				"data"
+			],
+			[
+				"te",
+				"textStatus"
+			],
+			[
+				"Sh",
+				"Schema"
+			],
+			[
+				"set",
+				"setName"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"get",
+				"getName"
+			],
+			[
+				"g",
+				"getName"
+			],
+			[
+				"viw",
+				"views"
+			],
+			[
+				"rest",
+				"resetPasswordUrl"
+			],
+			[
+				"res",
+				"resetPasswordUrl"
+			],
+			[
+				"hos",
+				"hostname"
+			],
+			[
+				"forg",
+				"forgottenPasswordTemplate"
+			],
+			[
+				"la",
+				"lastName"
+			],
+			[
+				"regi",
+				"RegisterView"
+			],
+			[
+				"regist",
+				"register"
+			],
+			[
+				"register",
+				"RegisterView"
+			],
+			[
+				"R",
+				"RegisterView"
+			],
+			[
+				"reg",
+				"registerCallback"
+			],
+			[
+				"last",
+				"lastname"
+			],
+			[
+				"fin",
+				"findOne"
+			],
+			[
+				"Acco",
+				"Account"
+			],
+			[
+				"sha",
+				"shaSum"
+			],
+			[
+				"crea",
+				"createHash"
+			],
+			[
+				"new",
+				"newpassword"
+			],
+			[
+				"mo",
+				"mongoose"
+			],
+			[
+				"is",
+				"isDeadly"
+			],
+			[
+				"ca",
+				"canFly"
+			],
+			[
+				"funct",
+				"function"
+			],
+			[
+				"inde",
+				"indexTemplate"
+			],
+			[
+				"ind",
+				"indexView"
+			],
+			[
+				"tem",
+				"templateArgs"
+			],
+			[
+				"rad",
+				"randomStoogeIndex"
+			],
+			[
+				"rand",
+				"randomIndex"
+			],
+			[
+				"socket",
+				"socket"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"view",
+				"views"
+			],
+			[
+				"per",
+				"pearObj"
+			],
+			[
+				"pe",
+				"pear2"
+			],
+			[
+				"Gr",
+				"grape"
+			],
+			[
+				"ne",
+				"newApple"
+			],
+			[
+				"app",
+				"apple"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/michaeljames/Documents/Projects/node/skimlinks/challenge/6682494/public/v.js",
+			"settings":
+			{
+				"buffer_size": 845,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "function runTests(tests) {\n  var failed = 0;\n  tests.push({\n    expr: function() {\n      return tests.length-1 === i\n    },\n    \"label\": \"Run all tests successfully\"\n  });\n  for (var i=0; i<tests.length; i++) {\n    console.log('Executing test: ' + tests[i].label);\n    var runExpr = tests[i].expr();\n    if (!runExpr) failed++;\n      console.assert(runExpr, tests[i].label);\n  }\n  console.log('Passed: ' + (tests.length-failed), \"Failed: \" + failed);\n}",
+			"file": "/Users/michaeljames/Documents/Projects/node/skimlinks/challenge/6682494/public/test-runner.js",
+			"file_size": 396,
+			"file_write_time": 1393974983000000,
+			"settings":
+			{
+				"buffer_size": 452,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/michaeljames/Documents/Projects/node/skimlinks/challenge/6682494/public/tests.js",
+			"settings":
+			{
+				"buffer_size": 2195,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"selected_items":
+		[
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Emmet: Remove Tag"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/michaeljames/Documents/Projects/node/skimlinks/challenge/6682494/public/tests.js",
+		"/Users/michaeljames/Documents/Projects/node/skimlinks/challenge/6682494/public/index.html",
+		"/Users/michaeljames/Documents/Projects/node/skimlinks/challenge/6682494/public/v.js",
+		"/Users/michaeljames/Documents/Projects/node/skimlinks/challenge/6682494/app.js",
+		"/Users/michaeljames/Documents/Projects/node/skimlinks/challenge/6682494/public/test-runner.js",
+		"/Users/michaeljames/Documents/Projects/node/skimlinks/challenge/6682494/v.js",
+		"/Users/michaeljames/Documents/Projects/node/skimlinks/challenge/6682494/index.html",
+		"/Users/michaeljames/Documents/Projects/node/streamadventure/transform/program.js",
+		"/Users/michaeljames/Documents/Projects/mike-jam.es/pocket-bookmarklet.js",
+		"/Users/michaeljames/Documents/Projects/TrackStackMeanStack/TrackStackMeanStack.sublime-project",
+		"/Users/michaeljames/Documents/Projects/TrackStackMeanStack/mean/app/controllers/events.js",
+		"/Users/michaeljames/Documents/Projects/node/rosierose/app/views/projects.html",
+		"/Users/michaeljames/Documents/Projects/TrackStack/modules/configuration/connectionStrings.js",
+		"/Users/michaeljames/Documents/Projects/TrackStack/public/karma-e2e.conf.js",
+		"/Users/michaeljames/Documents/Projects/TrackStack/public/karma.conf.js",
+		"/Users/michaeljames/Documents/Projects/TrackStack/public/test/spec/controllers/main.js.disabled",
+		"/Users/michaeljames/Documents/Projects/TrackStack/public/app/bower_components/angular-socket-io/socket.js",
+		"/Users/michaeljames/Documents/Projects/TrackStack/public/.jshintrc",
+		"/Users/michaeljames/Documents/Projects/TrackStack/public/app/scripts/app.js",
+		"/Users/michaeljames/Documents/Projects/TrackStack/public/app/views/main.html",
+		"/Users/michaeljames/Documents/Projects/TrackStack/public/app/scripts/controllers/main.js",
+		"/Users/michaeljames/Documents/Projects/TrackStack/modules/mongo/mongo.js",
+		"/Users/michaeljames/Documents/Projects/TrackStack/modules/socket.io/connection.js",
+		"/Users/michaeljames/Documents/Projects/TrackStack/public/app/scripts/services/socket.js",
+		"/Users/michaeljames/Documents/Projects/TrackStack/public/Gruntfile.js",
+		"/Users/michaeljames/Documents/Projects/TrackStack/public/app/index.html",
+		"/Users/michaeljames/Documents/Projects/TrackStack/app.js",
+		"/Users/michaeljames/Documents/Projects/TrackStack/modules/configuration/api.js",
+		"/Users/michaeljames/Library/Application Support/Sublime Text 2/Packages/JsFormat/Default (OSX).sublime-keymap",
+		"/Users/michaeljames/Library/Application Support/Sublime Text 2/Packages/Tag/Tag Package.sublime-settings",
+		"/Users/michaeljames/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/michaeljames/Documents/Projects/TrackStack/public/colour.html",
+		"/Users/michaeljames/Documents/Projects/TrackStack/modules/api/tracks/post.js",
+		"/Users/michaeljames/Documents/Projects/TrackStack/modules/socket.io/index.js",
+		"/Users/michaeljames/Documents/Projects/TrackStack/modules/configuration/app.js",
+		"/Users/michaeljames/Documents/Projects/TrackStack/public/dist/index.html",
+		"/Users/michaeljames/Documents/Projects/TrackStack/styles.css",
+		"/Users/michaeljames/Documents/Projects/TrackStack/public/test/spec/controllers/main.js",
+		"/Users/michaeljames/Documents/Projects/TrackStack/public/test/runner.html",
+		"/Users/michaeljames/Documents/Projects/TrackStack/public/test/spec/services/socket.js",
+		"/Users/michaeljames/Documents/Projects/TrackStack/modules/resources/tracks.js",
+		"/Users/michaeljames/Documents/Projects/TrackStack/index.html",
+		"/Users/michaeljames/Documents/Projects/TrackStack/modules/socket.io.js",
+		"/Users/michaeljames/Documents/Projects/mike-jam.es/ResponsiveGridSystem/responsivegridsystem.html",
+		"/Users/michaeljames/Documents/Projects/mike-jam.es/app.js",
+		"/Users/michaeljames/Desktop/IOS7 Download 4beta",
+		"/Volumes/ubu/var/www/projects/www.everlastingkeepsakes.co.uk/wp-content/themes/ka.i/Items.php",
+		"/Volumes/ubu/var/www/projects/www.everlastingkeepsakes.co.uk/wp-content/themes/ka.i/page.php",
+		"/Volumes/ubu/var/www/projects/www.everlastingkeepsakes.co.uk/wp-content/themes/ka.i/functions.php",
+		"/Volumes/ubu/var/www/projects/www.everlastingkeepsakes.co.uk/wp-content/themes/ka.i/Structure",
+		"/Volumes/ubu/var/www/projects/www.everlastingkeepsakes.co.uk/wp-content/themes/ka.i/contact.php",
+		"/Volumes/ubu/var/www/projects/www.everlastingkeepsakes.co.uk/wp-content/themes/ka.i/includes/lib/Items.php",
+		"/Volumes/ubu/var/www/projects/www.everlastingkeepsakes.co.uk/wp-content/themes/ka.i/header.php",
+		"/Volumes/ubu/var/www/projects/www.everlastingkeepsakes.co.uk/wp-content/themes/ka.i/footer.php",
+		"/Volumes/ubu/var/www/projects/www.everlastingkeepsakes.co.uk/wp-content/themes/ka.i/styles/sass/partials/_header.scss",
+		"/Volumes/ubu/var/www/projects/www.everlastingkeepsakes.co.uk/wp-content/themes/ka.i/styles/sass/partials/_fonts.scss",
+		"/Volumes/ubu/var/www/projects/www.everlastingkeepsakes.co.uk/wp-content/themes/ka.i/styles/sass/partials/_colors.scss",
+		"/Volumes/ubu/var/www/projects/www.everlastingkeepsakes.co.uk/wp-content/themes/ka.i/styles/sass/partials/_footer.scss",
+		"/Volumes/ubu/var/www/projects/www.everlastingkeepsakes.co.uk/wp-content/themes/ka.i/includes/lib/Posts.php",
+		"/Users/michaeljames/Documents/Projects/CragFinder/RESTfulAPI/app.js",
+		"/Users/michaeljames/Documents/Projects/CragFinder/RESTfulAPI/lib/routes.js",
+		"/Volumes/ubu/var/www/crags/app.js",
+		"/Users/michaeljames/Documents/Projects/CragFinder/RESTfulAPI/modules/routes.js",
+		"/Users/michaeljames/Documents/Projects/RosieRose/app/views/project.html",
+		"/Users/michaeljames/Documents/Projects/RosieRose/app/styles/sass/partials/_article.scss",
+		"/Users/michaeljames/Documents/Projects/RosieRose/app/scripts/controllers/project.js",
+		"/Users/michaeljames/Documents/Projects/RosieRose/app/scripts/controllers/projects.js",
+		"/Users/michaeljames/Documents/Projects/RosieRose/app/views/projects.html",
+		"/Users/michaeljames/Documents/Projects/RosieRose/app/styles/stylesheets/partials/base.scss",
+		"/Users/michaeljames/Documents/Projects/RosieRose/app/styles/sass/partials/fonts.scss",
+		"/Users/michaeljames/Documents/Projects/RosieRose/Gruntfile.js",
+		"/Users/michaeljames/Documents/Projects/RosieRose/app/views/main.html",
+		"/Users/michaeljames/Documents/Projects/RosieRose/app/scripts/app.js",
+		"/Users/michaeljames/Documents/Projects/RosieRose/app/views/undefined.html",
+		"/Users/michaeljames/Documents/Projects/Repos/labs/js/angular.js/yeoman-lab/app/views/main.html",
+		"/Users/michaeljames/Documents/Projects/Repos/labs/js/angular.js/yeoman-lab/app/scripts/controllers/main.js",
+		"/Users/michaeljames/Documents/Projects/Repos/labs/js/angular.js/yeoman-lab/.tmp/styles/main.css",
+		"/Users/michaeljames/Documents/Projects/Repos/labs/js/angular.js/yeoman-lab/app/styles/compass_twitter_bootstrap/_variables.scss",
+		"/Users/michaeljames/Documents/Projects/Repos/labs/js/angular.js/yeoman-lab/app/styles/compass_twitter_bootstrap/_sprites.scss",
+		"/Volumes/ubu/var/www/projects/www.ka.i/wp-content/themes/ka.i/footer.php",
+		"/Volumes/ubu/var/www/projects/www.ka.i/wp-content/themes/ka.i/includes/lib/Footer.php",
+		"/Volumes/ubu/var/www/projects/www.ka.i/wp-includes/nav-menu-template.php",
+		"/Volumes/ubu/var/www/projects/www.ka.i/wp-includes/general-template.php",
+		"/Users/michaeljames/Documents/Projects/ka.i flat/public/styles/sass/partials/_colors.scss",
+		"/Users/michaeljames/Documents/Projects/ka.i flat/public/styles/sass/partials/_fonts.scss",
+		"/Volumes/ubu/var/www/projects/www.ka.i/wp-content/themes/ka.i/contact.php",
+		"/Volumes/ubu/var/www/projects/www.ka.i/wp-content/themes/ka.i/search.php",
+		"/Volumes/ubu/var/www/projects/www.ka.i/wp-content/themes/ka.i/functions.php",
+		"/Volumes/ubu/var/www/projects/www.ka.i/wp-content/themes/ka.i/homepage.php",
+		"/Volumes/ubu/var/www/projects/www.ka.i/wp-content/themes/ka.i/includes/footer/scripts.php",
+		"/Volumes/ubu/var/www/projects/www.ka.i/wp-content/themes/ka.i/includes/header/scripts.php",
+		"/Volumes/ubu/var/www/projects/www.ka.i/wp-content/themes/ka.i/header.php",
+		"/Volumes/ubu/var/www/projects/www.ka.i/wp-content/themes/ka.i/sidebar.php",
+		"/Volumes/ubu/var/www/projects/www.ka.i/wp-content/themes/ka.i/index.php",
+		"/Volumes/ubu/var/www/projects/www.ka.i/wp-content/themes/ka.i/page.php",
+		"/Volumes/ubu/var/www/projects/www.ka.i/wp-content/themes/ka.i/styles/sass/styles.scss",
+		"/Volumes/ubu/var/www/projects/www.ka.i/wp-content/themes/ka.i/styles/sass/_reset.scss",
+		"/Volumes/ubu/var/www/projects/www.ka.i/wp-content/themes/ka.i/styles/stylesheets/styles.css",
+		"/Volumes/ubu/var/www/projects/www.ka.i/wp-content/themes/ka.i/styles/ka.i/config.rb",
+		"/Volumes/ubu/var/www/projects/www.ka.i/wp-content/themes/ka.i/styles/ka.i/sass/screen.scss",
+		"/Volumes/ubu/var/www/projects/www.ka.i/wp-content/themes/ka.i/styles/sass/styles.scss.haml",
+		"/Volumes/ubu/var/www/projects/www.ka.i/wp-content/themes/ka.i/styles/sass/test.scss",
+		"/Users/michaeljames/Documents/Projects/node/RESTfulAPI/app.js",
+		"/Users/michaeljames/Documents/Projects/node/RESTfulAPI/client-calls.js",
+		"/Users/michaeljames/Documents/Projects/node/RESTfulAPI/public/index.html",
+		"/Users/michaeljames/Documents/Projects/Not Texting/public/js/jquery.typist.js",
+		"/Users/michaeljames/Documents/Projects/Not Texting/public/styles/sass/styles.scss",
+		"/Users/michaeljames/Documents/Projects/Not Texting/public/index.html",
+		"/Users/michaeljames/Documents/Projects/Not Texting/styles/stylesheets/styles.css",
+		"/Users/michaeljames/Documents/Projects/Not Texting/index.html",
+		"/Users/michaeljames/Documents/Projects/Not Texting/styles/sass/styles.scss",
+		"/Users/michaeljames/Documents/Projects/Not Texting/app.js",
+		"/Users/michaeljames/Documents/Projects/Not Texting/public/styles/sass/reset.scss",
+		"/Users/michaeljames/Documents/Projects/node/mikesPersonalSite/app.js",
+		"/Users/michaeljames/Documents/Projects/node/mikesPersonalSite/public/views/baseLayout.jade",
+		"/Users/michaeljames/Desktop/test.html",
+		"/Users/michaeljames/Documents/Projects/node/Express/Social Network/mikesPersonalSite/app.js",
+		"/Users/michaeljames/Documents/Projects/node/OO Practice/modules/node/exports/personSingletonSHIT.js",
+		"/Users/michaeljames/Documents/Projects/node/Express/Social Network/public/js/libs/views/register.js",
+		"/Users/michaeljames/Documents/Projects/node/getyourheadround js/ejohn.org/assert.html",
+		"/Users/michaeljames/Documents/Projects/node/Express/Social Network/public/js/libs/jQuery/jquery-1.9.0.js",
+		"/Users/michaeljames/Documents/Projects/node/getyourheadround js/prototypes/index.html",
+		"/Users/michaeljames/Documents/Projects/node/Express/Social Network/public/js/libs/require.js",
+		"/Users/michaeljames/Documents/Projects/node/Express/Social Network/public/js/libs/backbone-0.9.10-dev.js",
+		"/Users/michaeljames/Documents/Projects/node/Express/Social Network/package.json",
+		"/Users/michaeljames/Documents/Projects/node/Express/Social Network/public/styles/sass/_base.scss",
+		"/Users/michaeljames/Documents/Projects/node/Express/Social Network/public/styles/sass/styles.scss",
+		"/Users/michaeljames/Documents/Projects/node/Express/Social Network/public/styles/sass/footer.scss.haml"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"<open files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"someOtherValue",
+			"<!--",
+			"ugli",
+			"min",
+			"ugli",
+			"server",
+			"Success!",
+			"processing",
+			"getExternalLinks",
+			"getPostsByCategoryName",
+			"getCurrentCategoryName",
+			"the_post(",
+			"wp",
+			"database:",
+			"fishyfeet",
+			"customers",
+			"users",
+			"mitey",
+			"create",
+			"create database",
+			"cssmin",
+			"compass",
+			"karma",
+			"ProjectData",
+			"../",
+			"rev",
+			"imagemin",
+			"image",
+			"ver",
+			"main",
+			"port",
+			"iconWhiteSpritePath",
+			"iconSpritePath",
+			"glyphicons",
+			"glythicon",
+			"$footer-height",
+			"$footer-height;",
+			"wp_nav_menu(",
+			"'template_directory'",
+			"off-white",
+			".footer",
+			"wrapper",
+			"my awesome t-shirt",
+			"\"",
+			"activate.wip3.adobe.com",
+			"ereg.wip3.adobe.com",
+			"activate.wip3.adobe.co",
+			"activate.wip3.adobe.com",
+			"reg.adobe.com",
+			"activate.adobe.com",
+			"wip3.adobe.com",
+			"3dns-3.adobe.com",
+			"requi",
+			"account",
+			"js/views",
+			"\n		",
+			"12.12",
+			"2.12",
+			"0.12"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"../../",
+			"item",
+			"\\\"",
+			"\\\\\"",
+			"\\\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/michaeljames/Documents/Projects/node/skimlinks/challenge/6682494/public/v.js",
+					"settings":
+					{
+						"buffer_size": 845,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								845
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/michaeljames/Documents/Projects/node/skimlinks/challenge/6682494/public/test-runner.js",
+					"settings":
+					{
+						"buffer_size": 452,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								452,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/michaeljames/Documents/Projects/node/skimlinks/challenge/6682494/public/tests.js",
+					"settings":
+					{
+						"buffer_size": 2195,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2187,
+								2187
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1085.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				0,
+				2,
+				1,
+				3
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.797309757669,
+			0.92575189492,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"kar",
+				"TrackStack/public/karma.conf.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 309.0,
+	"status_bar_visible": true
+}

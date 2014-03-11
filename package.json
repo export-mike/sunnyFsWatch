@@ -1,0 +1,24 @@
+{
+  "name": "sunnyFileWatch",
+  "version": "0.0.0",
+  "description": "a file system watcher that copies the latest changes into the other configured folder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikeljames/sunnyFileWatch.git"
+  },
+  "keywords": [
+    "filewatcher", "its always sunny in philadelphia"
+  ],
+  "author": "mike james",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/mikeljames/sunnyFileWatch/issues"
+  },
+  "dependencies": {
+    "watch": "~0.9.0"
+  }
+} 
