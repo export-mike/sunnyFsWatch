@@ -61,12 +61,16 @@ function getSlashCharacter (filePath) {
 
 function removeFile(filePath) {
 	var outputFilePath = sunnyConfig.folderDestination + '/' + getFileName(filePath);
-	fs.unlink(outputFilePath, function(err) {
+	if(fs.existsSync(outputFilePath)){
+		fs.unlink(outputFilePath, function(err) {
 
-		if (err) {
-			throw err;
-		}
+			if (err) {
+				throw err;
+			}
 
-		console.log('removed file:' + outputFilePath);
-	});
+			console.log('removed file:' + outputFilePath);
+		});
+	}else{
+		console.log('Cannot delete file. file does not exist in output folder:' + outputFilePath);
+	}
 }
